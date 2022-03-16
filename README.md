@@ -2,9 +2,9 @@
 
 I'm Aakash, a tech enthusiast.
 
-🔭 I'm currently working on building Roblox games.
-🤖 I love programming with Lua and currently learning Python and JavaScript.
-🤔 I'm looking for help with my front-end skills.
+- 🔭 I'm currently working on building Roblox games.
+- 🤖 I love programming with Lua and currently learning Python and JavaScript.
+- 🤔 I'm looking for help with my front-end skills.
 
 <!--
 **Deadwoodxbruh/Deadwoodxbruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
