@@ -7,7 +7,7 @@ I'm Aakash, a tech enthusiast.
 - 🤔 I'm looking for help with my front-end skills.
 
 <!--
-**Deadwoodxbruh/Deadwoodxbruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Deadwoodx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
